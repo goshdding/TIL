@@ -28,5 +28,12 @@ print("naver", "kakao", "sk", "samsung", sep=";") # sep="구분기호"
 # 008
 print("naver", "kakao", "sk", "samsung", sep="/")
 
+# 009
+print("first", end=""); print("second") # 세미콜론(;)은 한줄에 여러개의 명령을 작성하는데 사용
+
+# 010
+print(5/3)
+
+# 011
 
 
