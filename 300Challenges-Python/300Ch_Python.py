@@ -35,5 +35,18 @@ print("first", end=""); print("second") # 세미콜론(;)은 한줄에 여러개
 print(5/3)
 
 # 011
+samsung = 50000
+print(samsung * 10)
 
+# 012
+시가총액 = 298 * 1000000000000
+현재가 = 50000
+PER = 15.79
+
+# 013
+s = "hello"
+t ="python"
+print(s+"!", t)
+
+#014
 
